@@ -16,7 +16,7 @@ persona = """
 
 col1,col2 = st.columns(2)
 with col1:
-    st.subheader("Hello!!:wink::wave:")
+    st.subheader("Hello!!:wave:")
     st.title("I am Mohamed Aazil")
     #st.page_link(label="LinkedIn",url="https://www.linkedin.com/in/mohamed-aazil/")
     if st.button("LinkedIn"):
